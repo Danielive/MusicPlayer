@@ -1,6 +1,6 @@
 # Music Player
 
-### Support only `.mp3` format music
+### Support only *.mp3* format music
 
 ## Application layout
 ### List of music
