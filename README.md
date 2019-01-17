@@ -2,7 +2,7 @@
 
 ### Support only *.mp3* format music
 
-## Application layout
+## Application layouts
 ### List of music
 <img src="https://camo.githubusercontent.com/dc44f6ae4a18d41e38d28029cd6047db8343d94f/68747470733a2f2f70702e757365726170692e636f6d2f633835323332302f763835323332303631322f39333630392f786971654b556f496875552e6a7067"/>
 
